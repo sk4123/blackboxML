@@ -1,0 +1,5 @@
+Clone the repo
+
+Create a virtual environment and use the provided requirements.txt file
+
+If clicking run doesn't work, use the terminal window to run the program
